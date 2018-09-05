@@ -4,7 +4,7 @@ import org.scalatest.FunSpec
 
 class FizzBuzzSpec extends FunSpec {
 
-  describe("#run") {
+  describe(".run") {
     Seq(
       ("1", 1),
       ("Fizz", 3),
